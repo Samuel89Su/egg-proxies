@@ -50,6 +50,10 @@
   "ci": {
     "version": "6, 8"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samuel89Su/egg-proxies.git"
+  },
   "author": "SamuelSu",
   "license": "MIT"
 }

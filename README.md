@@ -2,6 +2,11 @@
 
 proxy plugin for egg.js base on koa-proxies [koa-proxies](https://github.com/vagusX/koa-proxies)
 
+## Installation
+
+```bash
+$ npm install egg-proxies --save
+```
 
 ## Usage
 
