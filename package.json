@@ -31,6 +31,7 @@
     "node": ">=6.0.0"
   },
   "scripts": {
+    "debug": "egg-bin debug",
     "dev": "egg-bin dev",
     "test": "npm run lint -- --fix && egg-bin pkgfiles && npm run test-local",
     "test-local": "egg-bin test",
