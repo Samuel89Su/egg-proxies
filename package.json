@@ -13,7 +13,8 @@
     "egg-proxies"
   ],
   "dependencies": {
-    "koa-proxies": "^0.8.0"
+    "http-proxy": "^1.17.0",
+    "path-match": "^1.2.4"
   },
   "devDependencies": {
     "autod": "^2.8.0",
